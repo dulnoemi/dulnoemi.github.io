@@ -1,0 +1,126 @@
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&family=Jost:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amaranth:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+.logo {
+    width: 130px;
+    margin: 10px;
+
+}
+
+.navegacion {
+    display: flex;
+    justify-content: space-between;
+}
+
+.navegacion {
+    background-color: #d7e5f0;
+}
+
+.cabeza {
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
+}
+
+.inicio {
+    margin-top: 10px;
+}
+
+.dentro {
+    display: flex;
+    flex-direction: column;
+}
+
+.camuno {
+    display: flex;
+    justify-content: right;
+    width: 730px;
+    height: 400px;
+}
+
+.col p {
+    text-align: center;
+    font-size: 17px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #6b8196;
+
+}
+
+.col p {
+    font-family: "Amaranth", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+footer {
+    background-color: #333;
+    color: #7990be;
+    padding: 20px 0;
+    text-align: center;
+}
+
+footer {
+    display: flex;
+    text-align: center;
+    background-color: #d7e5f0;
+    justify-content: center;
+}
+
+footer p {
+    font-family: initial;
+    padding-top: 10px;
+}
+
+.footer-content ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.footer-content ul li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.footer-content ul li:last-child {
+    margin-right: 0;
+}
+
+.footer-content ul li a:hover {
+    text-decoration: underline;
+}
+
+.footer-content img {
+    width: 40px;
+}
+
+.footer-content iframe {
+    height: 240px;
+    width: 450px;
+}
+
+.footer-content p {
+    margin: 10px;
+}
+
+.carousel img {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 100%;
+    height: auto;
+}
+.col img{
+    margin-top: 190px;
+    width: 100px;
+    height: 100px;
+    height: 100%;
+    display: flex;
+}
+.col{
+    margin-bottom: 190px;
+}
+.col img{
+    margin-left: 125px;
+}
